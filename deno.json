@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "compress": "deno run -A src/mod.ts"
+  },
+  "importMap": "./import_map.json"
+}
