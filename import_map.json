@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "zip": "https://deno.land/x/zip@v1.2.3/mod.ts",
+    "datetime": "https://deno.land/std@0.165.0/datetime/mod.ts",
+    "fs/": "https://deno.land/std@0.165.0/fs/"
+  }
+}
